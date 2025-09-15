@@ -9,7 +9,7 @@
 ![z6022280864513_7cef058b8a93a7541faa626a36263da4](https://github.com/user-attachments/assets/afe81266-88b9-4222-b221-391ce1a15794)
 
 <div align="center">
-  <a href="https://github.com/hoangtuanphong1a" target="_blank">
+  <a href="https://github.com/Huynhthanhtri2004" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=54A6FF"/>
   </a>
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
@@ -68,7 +68,7 @@
 ## 💫 About Me
 
 ```javascript
-const phong = {
+const Tri = {
   title: "Senior Frontend Developer",
   location: "Vietnam 🇻🇳",
   experience: "4+ years",

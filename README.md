@@ -33,6 +33,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ---
 
@@ -46,7 +47,7 @@
 - WordPress, WooCommerce
 - Quản lý sản phẩm, đơn hàng
 
-### 🔹 Flutter App (Learning Project)
+### 🔹 Flutter App 
 - Flutter + Firebase
 - UI cơ bản, authentication
 

@@ -12,7 +12,7 @@
 
 - 🎓 Sinh viên **Công nghệ Thông tin**
 - 💻 Đang học và làm project với **Python, Flutter, Web**
-- 🧠 Quan tâm đến **AI, Face Recognition, REST API**
+- 🧠 Quan tâm đến **AI, Computer Vision, Python, App Mobile**
 - 🎯 Mục tiêu: **Thực tập IT & xây nền tảng lập trình vững**
 
 ---

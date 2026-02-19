@@ -40,35 +40,29 @@
 
 ## 📌 Projects
 
+🔹 **Silent Chat App** (Flutter · Firebase)  
+- Ứng dụng chat 1–1 realtime với authentication và message streaming  
+- Triển khai Flutter Web để demo và thử nghiệm
+- 🔗 Repo: https://github.com/Huynhthanhtri2004/Silent_chat
+- 🔗 Demo: https://slientchat.web.app
+
+🔹 **Recipe App** (Flutter · Firebase)  
+- Ứng dụng chia sẻ công thức nấu ăn, hỗ trợ đăng bài, tương tác và realtime data  
+- Tích hợp Firebase Auth, Firestore
+- 🔗 Repo: https://github.com/Huynhthanhtri2004/Recipe-app
+- 🔗 Demo: https://github.com/Huynhthanhtri2004/Recipe-app
+
 ### 🔹 Face Recognition Attendance System
 - Python, OpenCV, Firebase
 - Nhận diện khuôn mặt & điểm danh tự động
+- 🔗 Repo: https://github.com/Huynhthanhtri2004/FaceRecognitionRealTimeDatabase
 
 ### 🔹 Neural Machine Translation
 - PyTorch, NLP
-- Hệ thống dịch song ngữ Anh - Việt
-
-### 🔹 Silent chat 
-- Flutter, Firebase
-- Ứng dụng mobile stream tin nhắn realtime
+- Hệ thống dịch máy sử dụng Transformer
+- 🔗 Repo: https://github.com/Huynhthanhtri2004/NMT_Project
   
-### 🔹 Recipe app 
-- Flutter, Firebase
-- Ứng dụng mobile mạng xã hội cho phép người dùng đăng tải, tương tác các công thức nấu ăn
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HuynhThanhTri2004&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuynhThanhTri2004&layout=compact&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=HuynhThanhTri2004&theme=tokyonight" />
-</div>
-
+  
 ---
 
 ## 🌐 Connect With Me
@@ -77,8 +71,19 @@
   <a href="https://github.com/HuynhThanhTri2004">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&color=54A6FF"/>
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="huynhthanhtri2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&color=54A6FF"/>
+  </a>
+  <a href="https://www.facebook.com/huynhthanhtri1.7/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/huynhthanhtri1.2/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/hu%E1%BB%B3nh-thanh-tr%C3%AD-undefined-b45195345/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
 

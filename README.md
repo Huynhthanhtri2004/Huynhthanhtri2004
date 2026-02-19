@@ -44,13 +44,17 @@
 - Python, OpenCV, Firebase
 - Nhận diện khuôn mặt & điểm danh tự động
 
-### 🔹 Website Bán Hàng
-- WordPress, WooCommerce
-- Quản lý sản phẩm, đơn hàng
+### 🔹 Neural Machine Translation
+- PyTorch, NLP
+- Hệ thống dịch song ngữ Anh - Việt
 
-### 🔹 Flutter App 
-- Flutter + Firebase
-- UI cơ bản, authentication
+### 🔹 Silent chat 
+- Flutter, Firebase
+- Ứng dụng mobile stream tin nhắn realtime
+  
+### 🔹 Recipe app 
+- Flutter, Firebase
+- Ứng dụng mobile mạng xã hội cho phép người dùng đăng tải, tương tác các công thức nấu ăn
 
 ---
 

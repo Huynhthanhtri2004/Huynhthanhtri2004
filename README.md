@@ -50,7 +50,7 @@
 - Ứng dụng chia sẻ công thức nấu ăn, hỗ trợ đăng bài, tương tác và realtime data  
 - Tích hợp Firebase Auth, Firestore
 - 🔗 Repo: https://github.com/Huynhthanhtri2004/Recipe-app
-- 🔗 Demo: https://github.com/Huynhthanhtri2004/Recipe-app
+- 🔗 Demo: https://recipeapp-90db2.web.app/
 
 ### 🔹 Face Recognition Attendance System
 - Python, OpenCV, Firebase
